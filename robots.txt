@@ -1,0 +1,5 @@
+# robots.txt for MuslimTech Review
+User-agent: *
+Disallow:
+
+Sitemap: https://onlylegitsource.github.io/MuslimTech-Review/sitemap.xml
